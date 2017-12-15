@@ -61,12 +61,16 @@ nível da implementação que será feita.
 
 [1] Singh, Ramesh, Preeti Bhargava, and Samta Kain. "State of the art smart spaces: application
 models and software infrastructure." Ubiquity2006.September (2006): 7.
+
 [2] NETO E. L. A. – Sistemas de Identificação Pessoal Utilizando Técnicas de
 Reconhecimento e Verificação Facial Automáticas, 1997 .
+
 [3] Navaux, Philippe Olivier Alexandre. Reconhecimento Automático de Padrões em Imagens
 Ecocardiográficas. Diss. UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL, 2010.
+
 [4] Tavares, Anderson Rocha, and Eloızio Cesar Drummond Salgado. "Comparaç ao de Algoritmos de
 Reconhecimento de Faces em Multidoes."
+
 [5] [BELHUMEUR1997] BELHUMEUR, P. N., HESPANHA, J. P., KRIEGMAN, D. J. “Eigenfaces vs. fisherfaces:
 recognition using class specific linear projection,” IEEE Transactions on Pattern Analysis and Machine
 Intelligence, vol. 19, no. 7, pp. 711-720, July 1997.
