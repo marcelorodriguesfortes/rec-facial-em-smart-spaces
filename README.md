@@ -53,7 +53,7 @@ trabalho será utilizada a biblioteca OpenCV para a linguagem C++. A Figura 2 mo
 nível da implementação que será feita.
 
 <p align="center">
-  <img src="https://github.com/marcelorodriguesfortes/ProjetosIniciacaoCientifica/blob/master/Fig/Figura%201.png" width="450"/>
+  <img src="https://github.com/marcelorodriguesfortes/rec-facial-em-smart-space/blob/master/Fig/Figura2.PNG" width="450"/>
 </p>
 
 
