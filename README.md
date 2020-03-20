@@ -9,8 +9,8 @@ natural, onde o ambiente é capaz de reconhecer e responder à presença de indi
 transparente e discreta. Neste trabalho propomo-nos a realizar o reconhecimento da entrada de um
 indivídio no smart space através do reconhecimento facial.
 
-Uma das mais confiáveis e menos invasivas técnicas da biometria é o reconhecimento facial. A
-idéia principal por trás desses algoritmos é compreender como o ser humano identifica uma pessoa,
+Uma das mais confiáveis e menos invasivas técnicas da biometria é o reconhecimento facial. O objetivo 
+desses algoritmos é compreender como o ser humano identifica uma pessoa,
 observando quais as características e objetos contidos na face. Um sistema de reconhecimento facial
 eficaz deve ser capaz de identificar uma face e suas características através de uma determinada imagem,
 assim como o ser humano identifica uma pessoa simplesmente olhando para uma determinada fotografia,
