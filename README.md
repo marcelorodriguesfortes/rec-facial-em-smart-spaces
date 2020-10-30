@@ -1,6 +1,6 @@
 # rec-facial-em-smart-space
 
-# Descrição da sistema 
+# Descrição do sistema 
 
 Smart spaces são sistemas de computação distribuídos, heterogêneos e pervasivos que visam
 criar um ambiente interativo com sensores, aparelhos de informação e interfaces multimodais [1]. Uma
