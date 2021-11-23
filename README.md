@@ -6,8 +6,8 @@ Smart spaces são sistemas de computação distribuídos, heterogêneos e pervas
 criar um ambiente interativo com sensores, aparelhos de informação e interfaces multimodais [1]. Uma
 característica importante dos smart spaces é que a interação com o sistema acontece de uma forma mais
 natural, onde o ambiente é capaz de reconhecer e responder à presença de indivíduos, de forma
-transparente e discreta. Neste trabalho propomo-nos a realizar o reconhecimento da entrada de um
-indivídio no smart space através do reconhecimento facial.
+transparente e discreta. Neste trabalho, implementei um serviço que realiza o reconhecimento da entrada de um
+indivídio no smart space por meio de reconhecimento facial.
 
 Uma das mais confiáveis e menos invasivas técnicas da biometria é o reconhecimento facial. O objetivo 
 desses algoritmos é compreender como o ser humano identifica uma pessoa,
